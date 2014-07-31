@@ -16,21 +16,12 @@ page()
 
 This fork should work on **IE8+** with use of [**es5shim**](https://github.com/es-shims/es5-shim).
 
-## Installation
+## Installation of this fork
 
-  There are multiple ways to install `page.js`.
-  With package managers:
+  With bower:
 
   ```bash
-  $ npm install page # for browserify
-  $ component install visionmedia/page.js
-  $ bower install visionmedia/page.js
-  ```
-
-  Via CDN and script tag:
-
-  ```html
-  <script src="https://cdn.rawgit.com/visionmedia/page.js/1.4.0/page.js">
+  $ bower install toruta39/page.js#master
   ```
 
 ## Running examples
