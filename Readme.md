@@ -12,6 +12,10 @@ page('*', notfound)
 page()
 ```
 
+## Difference with the origin repo
+
+This fork should work on **IE8+** with use of [**es5shim**](https://github.com/es-shims/es5-shim).
+
 ## Installation
 
   There are multiple ways to install `page.js`.
